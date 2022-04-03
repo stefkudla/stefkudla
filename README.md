@@ -3,7 +3,7 @@
 ## I'm an Audio Engineer, Coffee Connosieur, Web Developer, and a Student of life!!
 
 - 🔭 Check out my [personal website][website]!
-- 🌱 I’m currently learning Express.js
+- 🌱 I’m currently learning React.js and TailwindCSS
 - 👯 I’m looking to collaborate with UI designers and other Web Developers
 - 🥅 2022 Goals: Land a Front-end Web Development Job
 - 🎹 Fun fact: I make and [sell][beatstore] trap beats and record [local][spotifykp] rappers and singers!
