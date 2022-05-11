@@ -86,7 +86,7 @@ I'm driven to create something amazing and make the world a better place in the 
     Live Site
   </a>
       </p>
-      <p><strong>HTML, CSS, and JavaScript</strong> - LLanding Page with modern UI/UX and responsive design. Become more productive!</p>
+      <p><strong>HTML, CSS, and JavaScript</strong> - Landing Page with modern UI/UX and responsive design. Become more productive!</p>
     </td>
   </tr>
  
