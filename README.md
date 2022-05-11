@@ -1,6 +1,8 @@
 # Hi there, I'm [Stefan][website] 👋
 
-<img align="center" src="https://imgix.cosmicjs.com/aa17b160-d149-11ec-9f12-9bd712c1ee68-stefankudlagithubbanner.png" alt="Stefan Kudla Open Graph Image" />
+<a href="https://stefankudla.com/" target="_blank">
+  <img align="center" src="https://imgix.cosmicjs.com/aa17b160-d149-11ec-9f12-9bd712c1ee68-stefankudlagithubbanner.png" alt="Stefan Kudla Open Graph Image" />
+</a>
 
 Audio Engineer --> WordPress Developer --> Software Engineer.
 
@@ -126,7 +128,7 @@ I'm driven to create something amazing and make the world a better place in the 
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://stefankudla.com/posts)
+➡️ [More blog posts...](https://stefankudla.com/posts)
 
 ---
 
