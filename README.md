@@ -1,12 +1,12 @@
 # Hi there, I'm [Stefan][website] 👋
 
-## I'm an Audio Engineer, Coffee Connosieur, Web Developer, and a Student of life!!
+<img align="center" src="https://imgix.cosmicjs.com/aa17b160-d149-11ec-9f12-9bd712c1ee68-stefankudlagithubbanner.png" alt="Stefan Kudla Open Graph Image" />
 
-- 🔭 Check out my [personal website][website]!
-- 🌱 I’m currently learning React.js and TailwindCSS
-- 👯 I’m looking to collaborate with UI designers and other Web Developers
-- 🥅 2022 Goals: Land a Front-end Web Development Job
-- 🎹 Fun fact: I make and [sell][beatstore] trap beats and record [local][spotifykp] rappers and singers!
+Audio Engineer --> WordPress Developer --> Software Engineer.
+
+I'm driven to create something amazing and make the world a better place in the process.
+
+[View my resume](https://imgix.cosmicjs.com/cc2a92d0-d14a-11ec-9f12-9bd712c1ee68-StefanKudlaResume.pdf)
 
 ### Connect with me:
 
@@ -28,10 +28,16 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typept" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Firebase"width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
 
 <br />
 
@@ -41,14 +47,72 @@
 
 <!-- PROJECT:START -->
 
-- [Tasket Landing Page: HTML, CSS, Vanilla JavaScript](https://tasket.netlify.app/)
-- [brainWave: Reactjs, TailwindCSS](https://brainwave2.netlify.app/)
-- [Bookmetoday: HTML, CSS](https://bookmetodaytest.netlify.app/)
-- [Projex Academy: WordPress, WooCommerce, Thrive Apprentice LMS](https://www.projex.com/)
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">brainwave.com</h3>
+        <br />
+        <a target="_blank" href="https://brainwave2.netlify.app/">
+            <img src="img/brainwave.gif" width="100%" alt="Learning App" />
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/stefkudla/brainwave-2" target="_blank">
+    Repo
+  </a>  
+  <a href="https://brainwave2.netlify.app/" target="_blank">
+    Live Site
+  </a>
+      </p>
+      <p><strong>React.js, TailwindCSS, and Firebase</strong> - Learning platform allowing users to create their own account and learn about various subjects!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Tasket</h3>
+        <br />
+        <a target="_blank" href="https://tasket.netlify.app/">
+            <img src="img/tasket.gif" width="100%" alt="Task App" />
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/stefkudla/tasket-landing-page" target="_blank">
+    Repo
+  </a>  
+  <a href="https://tasket.netlify.app/" target="_blank">
+    Live Site
+  </a>
+      </p>
+      <p><strong>HTML, CSS, and JavaScript</strong> - LLanding Page with modern UI/UX and responsive design. Become more productive!</p>
+    </td>
+  </tr>
+ 
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">stefankudla.com</h3>
+        <br />
+        <a target="_blank" href="https://stefankudla.com/">
+            <img src="img/stefankudlacom.gif" width="100%" alt="Stefan Kudla Dot Com" />
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/stefkudla/stefankudla.com" target="_blank">
+    Repo
+  </a>  
+  <a href="https://stefankudla.com/" target="_blank">
+    Live Site
+  </a>
+      </p>
+      <p><strong>TypeScript, Next.js, Tailwind, Cosmic.js and Node.js</strong> - My personal website converted from WordPress to Jamstack.</p>
+    </td>
+  </tr>
+</table>
 
 <!-- PROJECT:END -->
 
-➡️ [my portfolio...](https://stefankudla.com/portfolio)
+➡️ [Visit my website](https://stefankudla.com/)
 
 ---
 
@@ -56,35 +120,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How to Start Freelancing as a Web Developer in 2022](https://stefankudla.com/how-to-start-freelancing-as-a-web-developer-in-2022/)
-- [Here’s Why All Musicians Need a Website in 2022](https://stefankudla.com/heres-why-all-musicians-need-a-website-in-2022/)
-- [Creativity and Software Development Is a Wonderful Combination](https://stefankudla.com/creativity-and-software-development/)
+- [How I Started Freelancing As a Web Developer](https://stefankudla.com/posts/how-i-started-freelancing-as-a-web-developer-in-2022)
+- [Here’s Why All Musicians Need a Website in 2022](https://stefankudla.com/posts/heres-why-all-musicians-need-a-website-in-2022)
+- [Creativity and Software Development Is a Wonderful Combination](https://stefankudla.com/posts/creativity-and-software-development-is-a-wonderful-combination)
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://stefankudla.com)
+➡️ [more blog posts...](https://stefankudla.com/posts)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce) -->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stefkudla&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 [website]: https://stefankudla.com
 [beatstore]: https://eversense.beatstars.com/
