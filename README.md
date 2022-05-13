@@ -109,7 +109,26 @@ I'm driven to create something amazing and make the world a better place in the 
       </p>
       <p><strong>TypeScript, Next.js, Tailwind, Cosmic.js and Node.js</strong> - My personal website converted from WordPress to Jamstack.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Dear CMS</h3>
+        <br />
+        <a target="_blank" href="https://dearcms.netlify.app/">
+            <img src="img/dearcms.gif" width="100%" alt="Dear CMS" />
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/stefkudla/dear_cms" target="_blank">
+    Repo
+  </a>  
+  <a href="https://dearcms.netlify.app/" target="_blank">
+    Live Site
+  </a>
+      </p>
+      <p><strong>Next.js, Tailwind, GraphCMS</strong> - A headless CMS blog allowing users to read posts and comment what they thought about the posts.</p>
+    </td>
   </tr>
+  
 </table>
 
 <!-- PROJECT:END -->
